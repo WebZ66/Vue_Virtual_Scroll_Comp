@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.4.0",
+    "dart-sass": "^1.25.0",
+    "sass": "^1.66.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
